@@ -1,5 +1,6 @@
 Comic
 Thriller
+Science Fiction
 Action
 Adventure
 Love
